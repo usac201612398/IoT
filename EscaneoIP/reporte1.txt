@@ -1,0 +1,1637 @@
+# Nmap 7.98 scan initiated Fri Nov 28 09:01:31 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -p 502,102,44818,2222,20548,9600,28784,57176,2004,3306,1433,445 -iL ips1.txt -Pn -sV --max-retries 2 --host-timeout 30s -T4 -oN reporte1.txt
+Nmap scan report for 66.96.34.0
+Host is up.
+Skipping host 66.96.34.0 due to host timeout
+Nmap scan report for 66.96.34.1
+Host is up.
+Skipping host 66.96.34.1 due to host timeout
+Nmap scan report for 66.96.34.2
+Host is up.
+Skipping host 66.96.34.2 due to host timeout
+Nmap scan report for 66.96.34.3
+Host is up.
+Skipping host 66.96.34.3 due to host timeout
+Nmap scan report for 66.96.34.4
+Host is up.
+Skipping host 66.96.34.4 due to host timeout
+Nmap scan report for 66.96.34.5
+Host is up.
+Skipping host 66.96.34.5 due to host timeout
+Nmap scan report for 66.96.34.6
+Host is up.
+Skipping host 66.96.34.6 due to host timeout
+Nmap scan report for 66.96.34.7
+Host is up.
+Skipping host 66.96.34.7 due to host timeout
+Nmap scan report for 66.96.34.8
+Host is up.
+Skipping host 66.96.34.8 due to host timeout
+Nmap scan report for 66.96.34.9
+Host is up.
+Skipping host 66.96.34.9 due to host timeout
+Nmap scan report for 66.96.34.10
+Host is up.
+Skipping host 66.96.34.10 due to host timeout
+Nmap scan report for 66.96.34.11
+Host is up.
+Skipping host 66.96.34.11 due to host timeout
+Nmap scan report for 66.96.34.12
+Host is up.
+Skipping host 66.96.34.12 due to host timeout
+Nmap scan report for 66.96.34.13
+Host is up.
+Skipping host 66.96.34.13 due to host timeout
+Nmap scan report for 66.96.34.14
+Host is up.
+Skipping host 66.96.34.14 due to host timeout
+Nmap scan report for 66.96.34.15
+Host is up.
+Skipping host 66.96.34.15 due to host timeout
+Nmap scan report for 66.96.34.16
+Host is up.
+Skipping host 66.96.34.16 due to host timeout
+Nmap scan report for 66.96.34.17
+Host is up.
+Skipping host 66.96.34.17 due to host timeout
+Nmap scan report for 66.96.34.18
+Host is up.
+Skipping host 66.96.34.18 due to host timeout
+Nmap scan report for 66.96.34.19
+Host is up.
+Skipping host 66.96.34.19 due to host timeout
+Nmap scan report for 66.96.34.20
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.34.21
+Host is up.
+Skipping host 66.96.34.21 due to host timeout
+Nmap scan report for 66.96.34.22
+Host is up.
+Skipping host 66.96.34.22 due to host timeout
+Nmap scan report for 66.96.34.23
+Host is up.
+Skipping host 66.96.34.23 due to host timeout
+Nmap scan report for 66.96.34.24
+Host is up.
+Skipping host 66.96.34.24 due to host timeout
+Nmap scan report for 66.96.34.25
+Host is up.
+Skipping host 66.96.34.25 due to host timeout
+Nmap scan report for 66.96.34.26
+Host is up.
+Skipping host 66.96.34.26 due to host timeout
+Nmap scan report for 66.96.34.27
+Host is up.
+Skipping host 66.96.34.27 due to host timeout
+Nmap scan report for 66.96.34.28
+Host is up.
+Skipping host 66.96.34.28 due to host timeout
+Nmap scan report for 66.96.34.29
+Host is up.
+Skipping host 66.96.34.29 due to host timeout
+Nmap scan report for 66.96.34.30
+Host is up.
+Skipping host 66.96.34.30 due to host timeout
+Nmap scan report for 66.96.34.31
+Host is up.
+Skipping host 66.96.34.31 due to host timeout
+Nmap scan report for 66.96.34.32
+Host is up.
+Skipping host 66.96.34.32 due to host timeout
+Nmap scan report for 66.96.34.33
+Host is up.
+Skipping host 66.96.34.33 due to host timeout
+Nmap scan report for 66.96.34.34
+Host is up.
+Skipping host 66.96.34.34 due to host timeout
+Nmap scan report for 66.96.34.35
+Host is up.
+Skipping host 66.96.34.35 due to host timeout
+Nmap scan report for 66.96.34.36
+Host is up.
+Skipping host 66.96.34.36 due to host timeout
+Nmap scan report for 66.96.34.37
+Host is up.
+Skipping host 66.96.34.37 due to host timeout
+Nmap scan report for 66.96.34.38
+Host is up.
+Skipping host 66.96.34.38 due to host timeout
+Nmap scan report for 66.96.34.39
+Host is up.
+Skipping host 66.96.34.39 due to host timeout
+Nmap scan report for 66.96.34.40
+Host is up.
+Skipping host 66.96.34.40 due to host timeout
+Nmap scan report for 66.96.34.41
+Host is up.
+Skipping host 66.96.34.41 due to host timeout
+Nmap scan report for 66.96.34.42
+Host is up.
+Skipping host 66.96.34.42 due to host timeout
+Nmap scan report for 66.96.34.43
+Host is up.
+Skipping host 66.96.34.43 due to host timeout
+Nmap scan report for 66.96.34.44
+Host is up.
+Skipping host 66.96.34.44 due to host timeout
+Nmap scan report for 66.96.34.45
+Host is up.
+Skipping host 66.96.34.45 due to host timeout
+Nmap scan report for 66.96.34.46
+Host is up.
+Skipping host 66.96.34.46 due to host timeout
+Nmap scan report for 66.96.34.47
+Host is up.
+Skipping host 66.96.34.47 due to host timeout
+Nmap scan report for 66.96.34.48
+Host is up.
+Skipping host 66.96.34.48 due to host timeout
+Nmap scan report for 66.96.34.49
+Host is up.
+Skipping host 66.96.34.49 due to host timeout
+Nmap scan report for 66.96.34.50
+Host is up.
+Skipping host 66.96.34.50 due to host timeout
+Nmap scan report for 66.96.34.51
+Host is up.
+Skipping host 66.96.34.51 due to host timeout
+Nmap scan report for 66.96.34.52
+Host is up.
+Skipping host 66.96.34.52 due to host timeout
+Nmap scan report for 66.96.34.53
+Host is up.
+Skipping host 66.96.34.53 due to host timeout
+Nmap scan report for 66.96.34.54
+Host is up.
+Skipping host 66.96.34.54 due to host timeout
+Nmap scan report for 66.96.34.55
+Host is up.
+Skipping host 66.96.34.55 due to host timeout
+Nmap scan report for 66.96.34.56
+Host is up.
+Skipping host 66.96.34.56 due to host timeout
+Nmap scan report for 66.96.34.57
+Host is up.
+Skipping host 66.96.34.57 due to host timeout
+Nmap scan report for 66.96.34.58
+Host is up.
+Skipping host 66.96.34.58 due to host timeout
+Nmap scan report for 66.96.34.59
+Host is up.
+Skipping host 66.96.34.59 due to host timeout
+Nmap scan report for 66.96.34.60
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.34.61
+Host is up.
+Skipping host 66.96.34.61 due to host timeout
+Nmap scan report for 66.96.34.62
+Host is up.
+Skipping host 66.96.34.62 due to host timeout
+Nmap scan report for 66.96.34.63
+Host is up.
+Skipping host 66.96.34.63 due to host timeout
+Nmap scan report for 66.96.34.64
+Host is up.
+Skipping host 66.96.34.64 due to host timeout
+Nmap scan report for 66.96.34.65
+Host is up.
+Skipping host 66.96.34.65 due to host timeout
+Nmap scan report for 66.96.34.66
+Host is up.
+Skipping host 66.96.34.66 due to host timeout
+Nmap scan report for 66.96.34.67
+Host is up.
+Skipping host 66.96.34.67 due to host timeout
+Nmap scan report for 66.96.34.68
+Host is up.
+Skipping host 66.96.34.68 due to host timeout
+Nmap scan report for 66.96.34.69
+Host is up.
+Skipping host 66.96.34.69 due to host timeout
+Nmap scan report for 66.96.34.70
+Host is up.
+Skipping host 66.96.34.70 due to host timeout
+Nmap scan report for 66.96.34.71
+Host is up.
+Skipping host 66.96.34.71 due to host timeout
+Nmap scan report for 66.96.34.72
+Host is up.
+Skipping host 66.96.34.72 due to host timeout
+Nmap scan report for 66.96.34.73
+Host is up.
+Skipping host 66.96.34.73 due to host timeout
+Nmap scan report for 66.96.34.74
+Host is up.
+Skipping host 66.96.34.74 due to host timeout
+Nmap scan report for 66.96.34.75
+Host is up.
+Skipping host 66.96.34.75 due to host timeout
+Nmap scan report for 66.96.34.76
+Host is up.
+Skipping host 66.96.34.76 due to host timeout
+Nmap scan report for 66.96.34.77
+Host is up.
+Skipping host 66.96.34.77 due to host timeout
+Nmap scan report for 66.96.34.78
+Host is up.
+Skipping host 66.96.34.78 due to host timeout
+Nmap scan report for 66.96.34.79
+Host is up.
+Skipping host 66.96.34.79 due to host timeout
+Nmap scan report for 66.96.34.80
+Host is up.
+Skipping host 66.96.34.80 due to host timeout
+Nmap scan report for 66.96.34.81
+Host is up.
+Skipping host 66.96.34.81 due to host timeout
+Nmap scan report for 66.96.34.82
+Host is up.
+Skipping host 66.96.34.82 due to host timeout
+Nmap scan report for 66.96.34.83
+Host is up.
+Skipping host 66.96.34.83 due to host timeout
+Nmap scan report for 66.96.34.84
+Host is up.
+Skipping host 66.96.34.84 due to host timeout
+Nmap scan report for 66.96.34.85
+Host is up.
+Skipping host 66.96.34.85 due to host timeout
+Nmap scan report for 66.96.34.86
+Host is up.
+Skipping host 66.96.34.86 due to host timeout
+Nmap scan report for 66.96.34.87
+Host is up.
+Skipping host 66.96.34.87 due to host timeout
+Nmap scan report for 66.96.34.88
+Host is up.
+Skipping host 66.96.34.88 due to host timeout
+Nmap scan report for 66.96.34.89
+Host is up.
+Skipping host 66.96.34.89 due to host timeout
+Nmap scan report for 66.96.34.90
+Host is up.
+Skipping host 66.96.34.90 due to host timeout
+Nmap scan report for 66.96.34.91
+Host is up.
+Skipping host 66.96.34.91 due to host timeout
+Nmap scan report for 66.96.34.92
+Host is up.
+Skipping host 66.96.34.92 due to host timeout
+Nmap scan report for 66.96.34.93
+Host is up.
+Skipping host 66.96.34.93 due to host timeout
+Nmap scan report for 66.96.34.94
+Host is up.
+Skipping host 66.96.34.94 due to host timeout
+Nmap scan report for 66.96.34.95
+Host is up.
+Skipping host 66.96.34.95 due to host timeout
+Nmap scan report for 66.96.34.96
+Host is up.
+Skipping host 66.96.34.96 due to host timeout
+Nmap scan report for 66.96.34.97
+Host is up.
+Skipping host 66.96.34.97 due to host timeout
+Nmap scan report for 66.96.34.98
+Host is up.
+Skipping host 66.96.34.98 due to host timeout
+Nmap scan report for 66.96.34.99
+Host is up.
+Skipping host 66.96.34.99 due to host timeout
+Nmap scan report for 66.96.34.100
+Host is up.
+Skipping host 66.96.34.100 due to host timeout
+Nmap scan report for 66.96.34.101
+Host is up.
+Skipping host 66.96.34.101 due to host timeout
+Nmap scan report for 66.96.34.102
+Host is up.
+Skipping host 66.96.34.102 due to host timeout
+Nmap scan report for 66.96.34.103
+Host is up.
+Skipping host 66.96.34.103 due to host timeout
+Nmap scan report for 66.96.34.104
+Host is up.
+Skipping host 66.96.34.104 due to host timeout
+Nmap scan report for 66.96.34.105
+Host is up.
+Skipping host 66.96.34.105 due to host timeout
+Nmap scan report for 66.96.34.106
+Host is up.
+Skipping host 66.96.34.106 due to host timeout
+Nmap scan report for 66.96.34.107
+Host is up.
+Skipping host 66.96.34.107 due to host timeout
+Nmap scan report for 66.96.34.108
+Host is up.
+Skipping host 66.96.34.108 due to host timeout
+Nmap scan report for 66.96.34.109
+Host is up.
+Skipping host 66.96.34.109 due to host timeout
+Nmap scan report for 66.96.34.110
+Host is up.
+Skipping host 66.96.34.110 due to host timeout
+Nmap scan report for 66.96.34.111
+Host is up.
+Skipping host 66.96.34.111 due to host timeout
+Nmap scan report for 66.96.34.112
+Host is up.
+Skipping host 66.96.34.112 due to host timeout
+Nmap scan report for 66.96.34.113
+Host is up.
+Skipping host 66.96.34.113 due to host timeout
+Nmap scan report for 66.96.34.114
+Host is up.
+Skipping host 66.96.34.114 due to host timeout
+Nmap scan report for 66.96.34.115
+Host is up.
+Skipping host 66.96.34.115 due to host timeout
+Nmap scan report for 66.96.34.116
+Host is up.
+Skipping host 66.96.34.116 due to host timeout
+Nmap scan report for 66.96.34.117
+Host is up.
+Skipping host 66.96.34.117 due to host timeout
+Nmap scan report for 66.96.34.118
+Host is up.
+Skipping host 66.96.34.118 due to host timeout
+Nmap scan report for 66.96.34.119
+Host is up.
+Skipping host 66.96.34.119 due to host timeout
+Nmap scan report for 66.96.34.120
+Host is up.
+Skipping host 66.96.34.120 due to host timeout
+Nmap scan report for 66.96.34.121
+Host is up.
+Skipping host 66.96.34.121 due to host timeout
+Nmap scan report for 66.96.34.122
+Host is up.
+Skipping host 66.96.34.122 due to host timeout
+Nmap scan report for 66.96.34.123
+Host is up.
+Skipping host 66.96.34.123 due to host timeout
+Nmap scan report for 66.96.34.124
+Host is up.
+Skipping host 66.96.34.124 due to host timeout
+Nmap scan report for 66.96.34.125
+Host is up.
+Skipping host 66.96.34.125 due to host timeout
+Nmap scan report for 66.96.34.126
+Host is up.
+Skipping host 66.96.34.126 due to host timeout
+Nmap scan report for 66.96.34.127
+Host is up.
+Skipping host 66.96.34.127 due to host timeout
+Nmap scan report for 66.96.34.128
+Host is up.
+Skipping host 66.96.34.128 due to host timeout
+Nmap scan report for 66.96.34.129
+Host is up.
+Skipping host 66.96.34.129 due to host timeout
+Nmap scan report for 66.96.34.130
+Host is up.
+Skipping host 66.96.34.130 due to host timeout
+Nmap scan report for 66.96.34.131
+Host is up.
+Skipping host 66.96.34.131 due to host timeout
+Nmap scan report for 66.96.34.132
+Host is up.
+Skipping host 66.96.34.132 due to host timeout
+Nmap scan report for 66.96.34.133
+Host is up.
+Skipping host 66.96.34.133 due to host timeout
+Nmap scan report for 66.96.34.134
+Host is up.
+Skipping host 66.96.34.134 due to host timeout
+Nmap scan report for 66.96.34.135
+Host is up.
+Skipping host 66.96.34.135 due to host timeout
+Nmap scan report for 66.96.34.136
+Host is up.
+Skipping host 66.96.34.136 due to host timeout
+Nmap scan report for 66.96.34.137
+Host is up.
+Skipping host 66.96.34.137 due to host timeout
+Nmap scan report for 66.96.34.138
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.34.139
+Host is up.
+Skipping host 66.96.34.139 due to host timeout
+Nmap scan report for 66.96.34.140
+Host is up.
+Skipping host 66.96.34.140 due to host timeout
+Nmap scan report for 66.96.34.141
+Host is up.
+Skipping host 66.96.34.141 due to host timeout
+Nmap scan report for 66.96.34.142
+Host is up.
+Skipping host 66.96.34.142 due to host timeout
+Nmap scan report for 66.96.34.143
+Host is up.
+Skipping host 66.96.34.143 due to host timeout
+Nmap scan report for 66.96.34.144
+Host is up.
+Skipping host 66.96.34.144 due to host timeout
+Nmap scan report for 66.96.34.145
+Host is up.
+Skipping host 66.96.34.145 due to host timeout
+Nmap scan report for 66.96.34.146
+Host is up.
+Skipping host 66.96.34.146 due to host timeout
+Nmap scan report for 66.96.34.147
+Host is up.
+Skipping host 66.96.34.147 due to host timeout
+Nmap scan report for 66.96.34.148
+Host is up.
+Skipping host 66.96.34.148 due to host timeout
+Nmap scan report for 66.96.34.149
+Host is up.
+Skipping host 66.96.34.149 due to host timeout
+Nmap scan report for 66.96.34.150
+Host is up.
+Skipping host 66.96.34.150 due to host timeout
+Nmap scan report for 66.96.34.151
+Host is up.
+Skipping host 66.96.34.151 due to host timeout
+Nmap scan report for 66.96.34.152
+Host is up.
+Skipping host 66.96.34.152 due to host timeout
+Nmap scan report for 66.96.34.153
+Host is up.
+Skipping host 66.96.34.153 due to host timeout
+Nmap scan report for 66.96.34.154
+Host is up.
+Skipping host 66.96.34.154 due to host timeout
+Nmap scan report for 66.96.34.155
+Host is up.
+Skipping host 66.96.34.155 due to host timeout
+Nmap scan report for 66.96.34.156
+Host is up.
+Skipping host 66.96.34.156 due to host timeout
+Nmap scan report for 66.96.34.157
+Host is up.
+Skipping host 66.96.34.157 due to host timeout
+Nmap scan report for 66.96.34.158
+Host is up.
+Skipping host 66.96.34.158 due to host timeout
+Nmap scan report for 66.96.34.159
+Host is up.
+Skipping host 66.96.34.159 due to host timeout
+Nmap scan report for 66.96.34.160
+Host is up.
+Skipping host 66.96.34.160 due to host timeout
+Nmap scan report for 66.96.34.161
+Host is up.
+Skipping host 66.96.34.161 due to host timeout
+Nmap scan report for 66.96.34.162
+Host is up.
+Skipping host 66.96.34.162 due to host timeout
+Nmap scan report for 66.96.34.163
+Host is up.
+Skipping host 66.96.34.163 due to host timeout
+Nmap scan report for 66.96.34.164
+Host is up.
+Skipping host 66.96.34.164 due to host timeout
+Nmap scan report for 66.96.34.165
+Host is up.
+Skipping host 66.96.34.165 due to host timeout
+Nmap scan report for 66.96.34.166
+Host is up.
+Skipping host 66.96.34.166 due to host timeout
+Nmap scan report for 66.96.34.167
+Host is up.
+Skipping host 66.96.34.167 due to host timeout
+Nmap scan report for 66.96.34.168
+Host is up.
+Skipping host 66.96.34.168 due to host timeout
+Nmap scan report for 66.96.34.169
+Host is up.
+Skipping host 66.96.34.169 due to host timeout
+Nmap scan report for 66.96.34.170
+Host is up.
+Skipping host 66.96.34.170 due to host timeout
+Nmap scan report for 66.96.34.171
+Host is up.
+Skipping host 66.96.34.171 due to host timeout
+Nmap scan report for 66.96.34.172
+Host is up.
+Skipping host 66.96.34.172 due to host timeout
+Nmap scan report for 66.96.34.173
+Host is up.
+Skipping host 66.96.34.173 due to host timeout
+Nmap scan report for 66.96.34.174
+Host is up.
+Skipping host 66.96.34.174 due to host timeout
+Nmap scan report for 66.96.34.175
+Host is up.
+Skipping host 66.96.34.175 due to host timeout
+Nmap scan report for 66.96.34.176
+Host is up.
+Skipping host 66.96.34.176 due to host timeout
+Nmap scan report for 66.96.34.177
+Host is up.
+Skipping host 66.96.34.177 due to host timeout
+Nmap scan report for 66.96.34.178
+Host is up.
+Skipping host 66.96.34.178 due to host timeout
+Nmap scan report for 66.96.34.179
+Host is up.
+Skipping host 66.96.34.179 due to host timeout
+Nmap scan report for 66.96.34.180
+Host is up.
+Skipping host 66.96.34.180 due to host timeout
+Nmap scan report for 66.96.34.181
+Host is up.
+Skipping host 66.96.34.181 due to host timeout
+Nmap scan report for 66.96.34.182
+Host is up.
+Skipping host 66.96.34.182 due to host timeout
+Nmap scan report for 66.96.34.183
+Host is up.
+Skipping host 66.96.34.183 due to host timeout
+Nmap scan report for 66.96.34.184
+Host is up.
+Skipping host 66.96.34.184 due to host timeout
+Nmap scan report for 66.96.34.185
+Host is up.
+Skipping host 66.96.34.185 due to host timeout
+Nmap scan report for 66.96.34.186
+Host is up.
+Skipping host 66.96.34.186 due to host timeout
+Nmap scan report for 66.96.34.187
+Host is up.
+Skipping host 66.96.34.187 due to host timeout
+Nmap scan report for 66.96.34.188
+Host is up.
+Skipping host 66.96.34.188 due to host timeout
+Nmap scan report for 66.96.34.189
+Host is up.
+Skipping host 66.96.34.189 due to host timeout
+Nmap scan report for 66.96.34.190
+Host is up.
+Skipping host 66.96.34.190 due to host timeout
+Nmap scan report for 66.96.34.191
+Host is up.
+Skipping host 66.96.34.191 due to host timeout
+Nmap scan report for 66.96.34.192
+Host is up.
+Skipping host 66.96.34.192 due to host timeout
+Nmap scan report for 66.96.34.193
+Host is up.
+Skipping host 66.96.34.193 due to host timeout
+Nmap scan report for 66.96.34.194
+Host is up.
+Skipping host 66.96.34.194 due to host timeout
+Nmap scan report for 66.96.34.195
+Host is up.
+Skipping host 66.96.34.195 due to host timeout
+Nmap scan report for 66.96.34.196
+Host is up.
+Skipping host 66.96.34.196 due to host timeout
+Nmap scan report for 66.96.34.197
+Host is up.
+Skipping host 66.96.34.197 due to host timeout
+Nmap scan report for 66.96.34.198
+Host is up.
+Skipping host 66.96.34.198 due to host timeout
+Nmap scan report for 66.96.34.199
+Host is up.
+Skipping host 66.96.34.199 due to host timeout
+Nmap scan report for 66.96.34.200
+Host is up.
+Skipping host 66.96.34.200 due to host timeout
+Nmap scan report for 66.96.34.201
+Host is up.
+Skipping host 66.96.34.201 due to host timeout
+Nmap scan report for 66.96.34.202
+Host is up.
+Skipping host 66.96.34.202 due to host timeout
+Nmap scan report for 66.96.34.203
+Host is up.
+Skipping host 66.96.34.203 due to host timeout
+Nmap scan report for 66.96.34.204
+Host is up.
+Skipping host 66.96.34.204 due to host timeout
+Nmap scan report for 66.96.34.205
+Host is up.
+Skipping host 66.96.34.205 due to host timeout
+Nmap scan report for 66.96.34.206
+Host is up.
+Skipping host 66.96.34.206 due to host timeout
+Nmap scan report for 66.96.34.207
+Host is up.
+Skipping host 66.96.34.207 due to host timeout
+Nmap scan report for 66.96.34.208
+Host is up.
+Skipping host 66.96.34.208 due to host timeout
+Nmap scan report for 66.96.34.209
+Host is up.
+Skipping host 66.96.34.209 due to host timeout
+Nmap scan report for 66.96.34.210
+Host is up.
+Skipping host 66.96.34.210 due to host timeout
+Nmap scan report for 66.96.34.211
+Host is up.
+Skipping host 66.96.34.211 due to host timeout
+Nmap scan report for 66.96.34.212
+Host is up.
+Skipping host 66.96.34.212 due to host timeout
+Nmap scan report for 66.96.34.213
+Host is up.
+Skipping host 66.96.34.213 due to host timeout
+Nmap scan report for 66.96.34.214
+Host is up.
+Skipping host 66.96.34.214 due to host timeout
+Nmap scan report for 66.96.34.215
+Host is up.
+Skipping host 66.96.34.215 due to host timeout
+Nmap scan report for 66.96.34.216
+Host is up.
+Skipping host 66.96.34.216 due to host timeout
+Nmap scan report for 66.96.34.217
+Host is up.
+Skipping host 66.96.34.217 due to host timeout
+Nmap scan report for 66.96.34.218
+Host is up.
+Skipping host 66.96.34.218 due to host timeout
+Nmap scan report for 66.96.34.219
+Host is up.
+Skipping host 66.96.34.219 due to host timeout
+Nmap scan report for 66.96.34.220
+Host is up.
+Skipping host 66.96.34.220 due to host timeout
+Nmap scan report for 66.96.34.221
+Host is up.
+Skipping host 66.96.34.221 due to host timeout
+Nmap scan report for 66.96.34.222
+Host is up.
+Skipping host 66.96.34.222 due to host timeout
+Nmap scan report for 66.96.34.223
+Host is up.
+Skipping host 66.96.34.223 due to host timeout
+Nmap scan report for 66.96.34.224
+Host is up.
+Skipping host 66.96.34.224 due to host timeout
+Nmap scan report for 66.96.34.225
+Host is up.
+Skipping host 66.96.34.225 due to host timeout
+Nmap scan report for 66.96.34.226
+Host is up.
+Skipping host 66.96.34.226 due to host timeout
+Nmap scan report for 66.96.34.227
+Host is up.
+Skipping host 66.96.34.227 due to host timeout
+Nmap scan report for 66.96.34.228
+Host is up.
+Skipping host 66.96.34.228 due to host timeout
+Nmap scan report for 66.96.34.229
+Host is up.
+Skipping host 66.96.34.229 due to host timeout
+Nmap scan report for 66.96.34.230
+Host is up.
+Skipping host 66.96.34.230 due to host timeout
+Nmap scan report for 66.96.34.231
+Host is up.
+Skipping host 66.96.34.231 due to host timeout
+Nmap scan report for 66.96.34.232
+Host is up.
+Skipping host 66.96.34.232 due to host timeout
+Nmap scan report for 66.96.34.233
+Host is up.
+Skipping host 66.96.34.233 due to host timeout
+Nmap scan report for 66.96.34.234
+Host is up.
+Skipping host 66.96.34.234 due to host timeout
+Nmap scan report for 66.96.34.235
+Host is up.
+Skipping host 66.96.34.235 due to host timeout
+Nmap scan report for 66.96.34.236
+Host is up.
+Skipping host 66.96.34.236 due to host timeout
+Nmap scan report for 66.96.34.237
+Host is up.
+Skipping host 66.96.34.237 due to host timeout
+Nmap scan report for 66.96.34.238
+Host is up.
+Skipping host 66.96.34.238 due to host timeout
+Nmap scan report for 66.96.34.239
+Host is up.
+Skipping host 66.96.34.239 due to host timeout
+Nmap scan report for 66.96.34.240
+Host is up.
+Skipping host 66.96.34.240 due to host timeout
+Nmap scan report for 66.96.34.241
+Host is up.
+Skipping host 66.96.34.241 due to host timeout
+Nmap scan report for 66.96.34.242
+Host is up.
+Skipping host 66.96.34.242 due to host timeout
+Nmap scan report for 66.96.34.243
+Host is up.
+Skipping host 66.96.34.243 due to host timeout
+Nmap scan report for 66.96.34.244
+Host is up.
+Skipping host 66.96.34.244 due to host timeout
+Nmap scan report for 66.96.34.245
+Host is up.
+Skipping host 66.96.34.245 due to host timeout
+Nmap scan report for 66.96.34.246
+Host is up.
+Skipping host 66.96.34.246 due to host timeout
+Nmap scan report for 66.96.34.247
+Host is up.
+Skipping host 66.96.34.247 due to host timeout
+Nmap scan report for 66.96.34.248
+Host is up.
+Skipping host 66.96.34.248 due to host timeout
+Nmap scan report for 66.96.34.249
+Host is up.
+Skipping host 66.96.34.249 due to host timeout
+Nmap scan report for 66.96.34.250
+Host is up.
+Skipping host 66.96.34.250 due to host timeout
+Nmap scan report for 66.96.34.251
+Host is up.
+Skipping host 66.96.34.251 due to host timeout
+Nmap scan report for 66.96.34.252
+Host is up.
+Skipping host 66.96.34.252 due to host timeout
+Nmap scan report for 66.96.34.253
+Host is up.
+Skipping host 66.96.34.253 due to host timeout
+Nmap scan report for 66.96.34.254
+Host is up.
+Skipping host 66.96.34.254 due to host timeout
+Nmap scan report for 66.96.34.255
+Host is up.
+Skipping host 66.96.34.255 due to host timeout
+Nmap scan report for 66.96.35.0
+Host is up.
+Skipping host 66.96.35.0 due to host timeout
+Nmap scan report for 66.96.35.1
+Host is up.
+Skipping host 66.96.35.1 due to host timeout
+Nmap scan report for 66.96.35.2
+Host is up.
+Skipping host 66.96.35.2 due to host timeout
+Nmap scan report for 66.96.35.3
+Host is up.
+Skipping host 66.96.35.3 due to host timeout
+Nmap scan report for 66.96.35.4
+Host is up.
+Skipping host 66.96.35.4 due to host timeout
+Nmap scan report for 66.96.35.5
+Host is up.
+Skipping host 66.96.35.5 due to host timeout
+Nmap scan report for fwmex.mpgteam.com (66.96.35.6)
+Host is up.
+Skipping host fwmex.mpgteam.com (66.96.35.6) due to host timeout
+Nmap scan report for 66.96.35.7
+Host is up.
+Skipping host 66.96.35.7 due to host timeout
+Nmap scan report for 66.96.35.8
+Host is up.
+Skipping host 66.96.35.8 due to host timeout
+Nmap scan report for 66.96.35.9
+Host is up.
+Skipping host 66.96.35.9 due to host timeout
+Nmap scan report for hvmmex01.havasmedia.com (66.96.35.10)
+Host is up.
+Skipping host hvmmex01.havasmedia.com (66.96.35.10) due to host timeout
+Nmap scan report for hvmmex02.havasmedia.com (66.96.35.11)
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.35.12
+Host is up.
+Skipping host 66.96.35.12 due to host timeout
+Nmap scan report for 66.96.35.13
+Host is up.
+Skipping host 66.96.35.13 due to host timeout
+Nmap scan report for 66.96.35.14
+Host is up.
+Skipping host 66.96.35.14 due to host timeout
+Nmap scan report for 66.96.35.15
+Host is up.
+Skipping host 66.96.35.15 due to host timeout
+Nmap scan report for 66.96.35.16
+Host is up.
+Skipping host 66.96.35.16 due to host timeout
+Nmap scan report for 66.96.35.17
+Host is up.
+Skipping host 66.96.35.17 due to host timeout
+Nmap scan report for 66.96.35.18
+Host is up.
+Skipping host 66.96.35.18 due to host timeout
+Nmap scan report for 66.96.35.19
+Host is up.
+Skipping host 66.96.35.19 due to host timeout
+Nmap scan report for 66.96.35.20
+Host is up.
+Skipping host 66.96.35.20 due to host timeout
+Nmap scan report for 66.96.35.21
+Host is up.
+Skipping host 66.96.35.21 due to host timeout
+Nmap scan report for 66.96.35.22
+Host is up.
+Skipping host 66.96.35.22 due to host timeout
+Nmap scan report for 66.96.35.23
+Host is up.
+Skipping host 66.96.35.23 due to host timeout
+Nmap scan report for 66.96.35.24
+Host is up.
+Skipping host 66.96.35.24 due to host timeout
+Nmap scan report for 66.96.35.25
+Host is up.
+Skipping host 66.96.35.25 due to host timeout
+Nmap scan report for 66.96.35.26
+Host is up.
+Skipping host 66.96.35.26 due to host timeout
+Nmap scan report for 66.96.35.27
+Host is up.
+Skipping host 66.96.35.27 due to host timeout
+Nmap scan report for 66.96.35.28
+Host is up.
+Skipping host 66.96.35.28 due to host timeout
+Nmap scan report for 66.96.35.29
+Host is up.
+Skipping host 66.96.35.29 due to host timeout
+Nmap scan report for 66.96.35.30
+Host is up.
+Skipping host 66.96.35.30 due to host timeout
+Nmap scan report for 66.96.35.31
+Host is up.
+Skipping host 66.96.35.31 due to host timeout
+Nmap scan report for 66.96.35.32
+Host is up.
+Skipping host 66.96.35.32 due to host timeout
+Nmap scan report for 66.96.35.33
+Host is up.
+Skipping host 66.96.35.33 due to host timeout
+Nmap scan report for 66.96.35.34
+Host is up.
+Skipping host 66.96.35.34 due to host timeout
+Nmap scan report for 66.96.35.35
+Host is up.
+Skipping host 66.96.35.35 due to host timeout
+Nmap scan report for 66.96.35.36
+Host is up.
+Skipping host 66.96.35.36 due to host timeout
+Nmap scan report for 66.96.35.37
+Host is up.
+Skipping host 66.96.35.37 due to host timeout
+Nmap scan report for 66.96.35.38
+Host is up.
+Skipping host 66.96.35.38 due to host timeout
+Nmap scan report for 66.96.35.39
+Host is up.
+Skipping host 66.96.35.39 due to host timeout
+Nmap scan report for 66.96.35.40
+Host is up.
+Skipping host 66.96.35.40 due to host timeout
+Nmap scan report for 66.96.35.41
+Host is up.
+Skipping host 66.96.35.41 due to host timeout
+Nmap scan report for 66.96.35.42
+Host is up.
+Skipping host 66.96.35.42 due to host timeout
+Nmap scan report for 66.96.35.43
+Host is up.
+Skipping host 66.96.35.43 due to host timeout
+Nmap scan report for 66.96.35.44
+Host is up.
+Skipping host 66.96.35.44 due to host timeout
+Nmap scan report for 66.96.35.45
+Host is up.
+Skipping host 66.96.35.45 due to host timeout
+Nmap scan report for 66.96.35.46
+Host is up.
+Skipping host 66.96.35.46 due to host timeout
+Nmap scan report for 66.96.35.47
+Host is up.
+Skipping host 66.96.35.47 due to host timeout
+Nmap scan report for 66.96.35.48
+Host is up.
+Skipping host 66.96.35.48 due to host timeout
+Nmap scan report for 66.96.35.49
+Host is up.
+Skipping host 66.96.35.49 due to host timeout
+Nmap scan report for 66.96.35.50
+Host is up.
+Skipping host 66.96.35.50 due to host timeout
+Nmap scan report for 66.96.35.51
+Host is up.
+Skipping host 66.96.35.51 due to host timeout
+Nmap scan report for 66.96.35.52
+Host is up.
+Skipping host 66.96.35.52 due to host timeout
+Nmap scan report for 66.96.35.53
+Host is up.
+Skipping host 66.96.35.53 due to host timeout
+Nmap scan report for 66.96.35.54
+Host is up.
+Skipping host 66.96.35.54 due to host timeout
+Nmap scan report for 66.96.35.55
+Host is up.
+Skipping host 66.96.35.55 due to host timeout
+Nmap scan report for 66.96.35.56
+Host is up.
+Skipping host 66.96.35.56 due to host timeout
+Nmap scan report for 66.96.35.57
+Host is up.
+Skipping host 66.96.35.57 due to host timeout
+Nmap scan report for 66.96.35.58
+Host is up.
+Skipping host 66.96.35.58 due to host timeout
+Nmap scan report for 66.96.35.59
+Host is up.
+Skipping host 66.96.35.59 due to host timeout
+Nmap scan report for 66.96.35.60
+Host is up.
+Skipping host 66.96.35.60 due to host timeout
+Nmap scan report for 66.96.35.61
+Host is up.
+Skipping host 66.96.35.61 due to host timeout
+Nmap scan report for 66.96.35.62
+Host is up.
+Skipping host 66.96.35.62 due to host timeout
+Nmap scan report for 66.96.35.63
+Host is up.
+Skipping host 66.96.35.63 due to host timeout
+Nmap scan report for 66.96.35.64
+Host is up.
+Skipping host 66.96.35.64 due to host timeout
+Nmap scan report for 66.96.35.65
+Host is up.
+Skipping host 66.96.35.65 due to host timeout
+Nmap scan report for 66.96.35.66
+Host is up.
+Skipping host 66.96.35.66 due to host timeout
+Nmap scan report for 66.96.35.67
+Host is up.
+Skipping host 66.96.35.67 due to host timeout
+Nmap scan report for 66.96.35.68
+Host is up.
+Skipping host 66.96.35.68 due to host timeout
+Nmap scan report for 66.96.35.69
+Host is up.
+Skipping host 66.96.35.69 due to host timeout
+Nmap scan report for 66.96.35.70
+Host is up.
+Skipping host 66.96.35.70 due to host timeout
+Nmap scan report for 66.96.35.71
+Host is up.
+Skipping host 66.96.35.71 due to host timeout
+Nmap scan report for 66.96.35.72
+Host is up.
+Skipping host 66.96.35.72 due to host timeout
+Nmap scan report for 66.96.35.73
+Host is up.
+Skipping host 66.96.35.73 due to host timeout
+Nmap scan report for 66.96.35.74
+Host is up.
+Skipping host 66.96.35.74 due to host timeout
+Nmap scan report for 66.96.35.75
+Host is up.
+Skipping host 66.96.35.75 due to host timeout
+Nmap scan report for 66.96.35.76
+Host is up.
+Skipping host 66.96.35.76 due to host timeout
+Nmap scan report for 66.96.35.77
+Host is up.
+Skipping host 66.96.35.77 due to host timeout
+Nmap scan report for 66.96.35.78
+Host is up.
+Skipping host 66.96.35.78 due to host timeout
+Nmap scan report for 66.96.35.79
+Host is up.
+Skipping host 66.96.35.79 due to host timeout
+Nmap scan report for 66.96.35.80
+Host is up.
+Skipping host 66.96.35.80 due to host timeout
+Nmap scan report for 66.96.35.81
+Host is up.
+Skipping host 66.96.35.81 due to host timeout
+Nmap scan report for 66.96.35.82
+Host is up.
+Skipping host 66.96.35.82 due to host timeout
+Nmap scan report for 66.96.35.83
+Host is up.
+Skipping host 66.96.35.83 due to host timeout
+Nmap scan report for 66.96.35.84
+Host is up.
+Skipping host 66.96.35.84 due to host timeout
+Nmap scan report for 66.96.35.85
+Host is up.
+Skipping host 66.96.35.85 due to host timeout
+Nmap scan report for 66.96.35.86
+Host is up.
+Skipping host 66.96.35.86 due to host timeout
+Nmap scan report for 66.96.35.87
+Host is up.
+Skipping host 66.96.35.87 due to host timeout
+Nmap scan report for 66.96.35.88
+Host is up.
+Skipping host 66.96.35.88 due to host timeout
+Nmap scan report for 66.96.35.89
+Host is up.
+Skipping host 66.96.35.89 due to host timeout
+Nmap scan report for 66.96.35.90
+Host is up.
+Skipping host 66.96.35.90 due to host timeout
+Nmap scan report for 66.96.35.91
+Host is up.
+Skipping host 66.96.35.91 due to host timeout
+Nmap scan report for 66.96.35.92
+Host is up.
+Skipping host 66.96.35.92 due to host timeout
+Nmap scan report for 66.96.35.93
+Host is up.
+Skipping host 66.96.35.93 due to host timeout
+Nmap scan report for 66.96.35.94
+Host is up.
+Skipping host 66.96.35.94 due to host timeout
+Nmap scan report for 66.96.35.95
+Host is up.
+Skipping host 66.96.35.95 due to host timeout
+Nmap scan report for 66.96.35.96
+Host is up.
+Skipping host 66.96.35.96 due to host timeout
+Nmap scan report for 66.96.35.97
+Host is up.
+Skipping host 66.96.35.97 due to host timeout
+Nmap scan report for 66.96.35.98
+Host is up.
+Skipping host 66.96.35.98 due to host timeout
+Nmap scan report for 66.96.35.99
+Host is up.
+Skipping host 66.96.35.99 due to host timeout
+Nmap scan report for 66.96.35.100
+Host is up.
+Skipping host 66.96.35.100 due to host timeout
+Nmap scan report for 66.96.35.101
+Host is up.
+Skipping host 66.96.35.101 due to host timeout
+Nmap scan report for 66.96.35.102
+Host is up.
+Skipping host 66.96.35.102 due to host timeout
+Nmap scan report for 66.96.35.103
+Host is up.
+Skipping host 66.96.35.103 due to host timeout
+Nmap scan report for 66.96.35.104
+Host is up.
+Skipping host 66.96.35.104 due to host timeout
+Nmap scan report for 66.96.35.105
+Host is up.
+Skipping host 66.96.35.105 due to host timeout
+Nmap scan report for 66.96.35.106
+Host is up.
+Skipping host 66.96.35.106 due to host timeout
+Nmap scan report for 66.96.35.107
+Host is up.
+Skipping host 66.96.35.107 due to host timeout
+Nmap scan report for 66.96.35.108
+Host is up.
+Skipping host 66.96.35.108 due to host timeout
+Nmap scan report for 66.96.35.109
+Host is up.
+Skipping host 66.96.35.109 due to host timeout
+Nmap scan report for 66.96.35.110
+Host is up.
+Skipping host 66.96.35.110 due to host timeout
+Nmap scan report for 66.96.35.111
+Host is up.
+Skipping host 66.96.35.111 due to host timeout
+Nmap scan report for 66.96.35.112
+Host is up.
+Skipping host 66.96.35.112 due to host timeout
+Nmap scan report for 66.96.35.113
+Host is up.
+Skipping host 66.96.35.113 due to host timeout
+Nmap scan report for 66.96.35.114
+Host is up.
+Skipping host 66.96.35.114 due to host timeout
+Nmap scan report for 66.96.35.115
+Host is up.
+Skipping host 66.96.35.115 due to host timeout
+Nmap scan report for 66.96.35.116
+Host is up.
+Skipping host 66.96.35.116 due to host timeout
+Nmap scan report for 66.96.35.117
+Host is up.
+Skipping host 66.96.35.117 due to host timeout
+Nmap scan report for 66.96.35.118
+Host is up.
+Skipping host 66.96.35.118 due to host timeout
+Nmap scan report for 66.96.35.119
+Host is up.
+Skipping host 66.96.35.119 due to host timeout
+Nmap scan report for 66.96.35.120
+Host is up.
+Skipping host 66.96.35.120 due to host timeout
+Nmap scan report for 66.96.35.121
+Host is up.
+Skipping host 66.96.35.121 due to host timeout
+Nmap scan report for 66.96.35.122
+Host is up.
+Skipping host 66.96.35.122 due to host timeout
+Nmap scan report for 66.96.35.123
+Host is up.
+Skipping host 66.96.35.123 due to host timeout
+Nmap scan report for 66.96.35.124
+Host is up.
+Skipping host 66.96.35.124 due to host timeout
+Nmap scan report for 66.96.35.125
+Host is up.
+Skipping host 66.96.35.125 due to host timeout
+Nmap scan report for 66.96.35.126
+Host is up.
+Skipping host 66.96.35.126 due to host timeout
+Nmap scan report for 66.96.35.127
+Host is up.
+Skipping host 66.96.35.127 due to host timeout
+Nmap scan report for 66.96.35.128
+Host is up.
+Skipping host 66.96.35.128 due to host timeout
+Nmap scan report for 66.96.35.129
+Host is up.
+Skipping host 66.96.35.129 due to host timeout
+Nmap scan report for 66.96.35.130
+Host is up.
+Skipping host 66.96.35.130 due to host timeout
+Nmap scan report for 66.96.35.131
+Host is up.
+Skipping host 66.96.35.131 due to host timeout
+Nmap scan report for 66.96.35.132
+Host is up.
+Skipping host 66.96.35.132 due to host timeout
+Nmap scan report for 66.96.35.133
+Host is up.
+Skipping host 66.96.35.133 due to host timeout
+Nmap scan report for 66.96.35.134
+Host is up.
+Skipping host 66.96.35.134 due to host timeout
+Nmap scan report for 66.96.35.135
+Host is up.
+Skipping host 66.96.35.135 due to host timeout
+Nmap scan report for 66.96.35.136
+Host is up.
+Skipping host 66.96.35.136 due to host timeout
+Nmap scan report for 66.96.35.137
+Host is up.
+Skipping host 66.96.35.137 due to host timeout
+Nmap scan report for 66.96.35.138
+Host is up.
+Skipping host 66.96.35.138 due to host timeout
+Nmap scan report for 66.96.35.139
+Host is up.
+Skipping host 66.96.35.139 due to host timeout
+Nmap scan report for 66.96.35.140
+Host is up.
+Skipping host 66.96.35.140 due to host timeout
+Nmap scan report for 66.96.35.141
+Host is up.
+Skipping host 66.96.35.141 due to host timeout
+Nmap scan report for 66.96.35.142
+Host is up.
+Skipping host 66.96.35.142 due to host timeout
+Nmap scan report for 66.96.35.143
+Host is up.
+Skipping host 66.96.35.143 due to host timeout
+Nmap scan report for 66.96.35.144
+Host is up.
+Skipping host 66.96.35.144 due to host timeout
+Nmap scan report for 66.96.35.145
+Host is up.
+Skipping host 66.96.35.145 due to host timeout
+Nmap scan report for 66.96.35.146
+Host is up.
+Skipping host 66.96.35.146 due to host timeout
+Nmap scan report for 66.96.35.147
+Host is up.
+Skipping host 66.96.35.147 due to host timeout
+Nmap scan report for 66.96.35.148
+Host is up.
+Skipping host 66.96.35.148 due to host timeout
+Nmap scan report for 66.96.35.149
+Host is up.
+Skipping host 66.96.35.149 due to host timeout
+Nmap scan report for 66.96.35.150
+Host is up.
+Skipping host 66.96.35.150 due to host timeout
+Nmap scan report for 66.96.35.151
+Host is up.
+Skipping host 66.96.35.151 due to host timeout
+Nmap scan report for 66.96.35.152
+Host is up.
+Skipping host 66.96.35.152 due to host timeout
+Nmap scan report for 66.96.35.153
+Host is up.
+Skipping host 66.96.35.153 due to host timeout
+Nmap scan report for 66.96.35.154
+Host is up.
+Skipping host 66.96.35.154 due to host timeout
+Nmap scan report for 66.96.35.155
+Host is up.
+Skipping host 66.96.35.155 due to host timeout
+Nmap scan report for 66.96.35.156
+Host is up.
+Skipping host 66.96.35.156 due to host timeout
+Nmap scan report for 66.96.35.157
+Host is up.
+Skipping host 66.96.35.157 due to host timeout
+Nmap scan report for 66.96.35.158
+Host is up.
+Skipping host 66.96.35.158 due to host timeout
+Nmap scan report for 66.96.35.159
+Host is up.
+Skipping host 66.96.35.159 due to host timeout
+Nmap scan report for 66.96.35.160
+Host is up.
+Skipping host 66.96.35.160 due to host timeout
+Nmap scan report for 66.96.35.161
+Host is up.
+Skipping host 66.96.35.161 due to host timeout
+Nmap scan report for 66.96.35.162
+Host is up.
+Skipping host 66.96.35.162 due to host timeout
+Nmap scan report for 66.96.35.163
+Host is up.
+Skipping host 66.96.35.163 due to host timeout
+Nmap scan report for 66.96.35.164
+Host is up.
+Skipping host 66.96.35.164 due to host timeout
+Nmap scan report for 66.96.35.165
+Host is up.
+Skipping host 66.96.35.165 due to host timeout
+Nmap scan report for 66.96.35.166
+Host is up.
+Skipping host 66.96.35.166 due to host timeout
+Nmap scan report for 66.96.35.167
+Host is up.
+Skipping host 66.96.35.167 due to host timeout
+Nmap scan report for 66.96.35.168
+Host is up.
+Skipping host 66.96.35.168 due to host timeout
+Nmap scan report for 66.96.35.169
+Host is up.
+Skipping host 66.96.35.169 due to host timeout
+Nmap scan report for 66.96.35.170
+Host is up.
+Skipping host 66.96.35.170 due to host timeout
+Nmap scan report for 66.96.35.171
+Host is up.
+Skipping host 66.96.35.171 due to host timeout
+Nmap scan report for 66.96.35.172
+Host is up.
+Skipping host 66.96.35.172 due to host timeout
+Nmap scan report for 66.96.35.173
+Host is up.
+Skipping host 66.96.35.173 due to host timeout
+Nmap scan report for 66.96.35.174
+Host is up.
+Skipping host 66.96.35.174 due to host timeout
+Nmap scan report for 66.96.35.175
+Host is up.
+Skipping host 66.96.35.175 due to host timeout
+Nmap scan report for 66.96.35.176
+Host is up.
+Skipping host 66.96.35.176 due to host timeout
+Nmap scan report for 66.96.35.177
+Host is up.
+Skipping host 66.96.35.177 due to host timeout
+Nmap scan report for 66.96.35.178
+Host is up.
+Skipping host 66.96.35.178 due to host timeout
+Nmap scan report for 66.96.35.179
+Host is up.
+Skipping host 66.96.35.179 due to host timeout
+Nmap scan report for 66.96.35.180
+Host is up.
+Skipping host 66.96.35.180 due to host timeout
+Nmap scan report for 66.96.35.181
+Host is up.
+Skipping host 66.96.35.181 due to host timeout
+Nmap scan report for 66.96.35.182
+Host is up.
+Skipping host 66.96.35.182 due to host timeout
+Nmap scan report for 66.96.35.183
+Host is up.
+Skipping host 66.96.35.183 due to host timeout
+Nmap scan report for 66.96.35.184
+Host is up.
+Skipping host 66.96.35.184 due to host timeout
+Nmap scan report for 66.96.35.185
+Host is up.
+Skipping host 66.96.35.185 due to host timeout
+Nmap scan report for 66.96.35.186
+Host is up.
+Skipping host 66.96.35.186 due to host timeout
+Nmap scan report for 66.96.35.187
+Host is up.
+Skipping host 66.96.35.187 due to host timeout
+Nmap scan report for 66.96.35.188
+Host is up.
+Skipping host 66.96.35.188 due to host timeout
+Nmap scan report for 66.96.35.189
+Host is up.
+Skipping host 66.96.35.189 due to host timeout
+Nmap scan report for 66.96.35.190
+Host is up.
+Skipping host 66.96.35.190 due to host timeout
+Nmap scan report for 66.96.35.191
+Host is up.
+Skipping host 66.96.35.191 due to host timeout
+Nmap scan report for 66.96.35.192
+Host is up.
+Skipping host 66.96.35.192 due to host timeout
+Nmap scan report for 66.96.35.193
+Host is up.
+Skipping host 66.96.35.193 due to host timeout
+Nmap scan report for 66.96.35.194
+Host is up.
+Skipping host 66.96.35.194 due to host timeout
+Nmap scan report for 66.96.35.195
+Host is up.
+Skipping host 66.96.35.195 due to host timeout
+Nmap scan report for 66.96.35.196
+Host is up.
+Skipping host 66.96.35.196 due to host timeout
+Nmap scan report for 66.96.35.197
+Host is up.
+Skipping host 66.96.35.197 due to host timeout
+Nmap scan report for 66.96.35.198
+Host is up.
+Skipping host 66.96.35.198 due to host timeout
+Nmap scan report for 66.96.35.199
+Host is up.
+Skipping host 66.96.35.199 due to host timeout
+Nmap scan report for 66.96.35.200
+Host is up.
+Skipping host 66.96.35.200 due to host timeout
+Nmap scan report for 66.96.35.201
+Host is up.
+Skipping host 66.96.35.201 due to host timeout
+Nmap scan report for 66.96.35.202
+Host is up.
+Skipping host 66.96.35.202 due to host timeout
+Nmap scan report for 66.96.35.203
+Host is up.
+Skipping host 66.96.35.203 due to host timeout
+Nmap scan report for 66.96.35.204
+Host is up.
+Skipping host 66.96.35.204 due to host timeout
+Nmap scan report for 66.96.35.205
+Host is up.
+Skipping host 66.96.35.205 due to host timeout
+Nmap scan report for 66.96.35.206
+Host is up.
+Skipping host 66.96.35.206 due to host timeout
+Nmap scan report for 66.96.35.207
+Host is up.
+Skipping host 66.96.35.207 due to host timeout
+Nmap scan report for 66.96.35.208
+Host is up.
+Skipping host 66.96.35.208 due to host timeout
+Nmap scan report for 66.96.35.209
+Host is up.
+Skipping host 66.96.35.209 due to host timeout
+Nmap scan report for 66.96.35.210
+Host is up.
+Skipping host 66.96.35.210 due to host timeout
+Nmap scan report for 66.96.35.211
+Host is up.
+Skipping host 66.96.35.211 due to host timeout
+Nmap scan report for 66.96.35.212
+Host is up.
+Skipping host 66.96.35.212 due to host timeout
+Nmap scan report for 66.96.35.213
+Host is up.
+Skipping host 66.96.35.213 due to host timeout
+Nmap scan report for 66.96.35.214
+Host is up.
+Skipping host 66.96.35.214 due to host timeout
+Nmap scan report for 66.96.35.215
+Host is up.
+Skipping host 66.96.35.215 due to host timeout
+Nmap scan report for 66.96.35.216
+Host is up.
+Skipping host 66.96.35.216 due to host timeout
+Nmap scan report for 66.96.35.217
+Host is up.
+Skipping host 66.96.35.217 due to host timeout
+Nmap scan report for 66.96.35.218
+Host is up.
+Skipping host 66.96.35.218 due to host timeout
+Nmap scan report for 66.96.35.219
+Host is up.
+Skipping host 66.96.35.219 due to host timeout
+Nmap scan report for 66.96.35.220
+Host is up.
+Skipping host 66.96.35.220 due to host timeout
+Nmap scan report for 66.96.35.221
+Host is up.
+Skipping host 66.96.35.221 due to host timeout
+Nmap scan report for 66.96.35.222
+Host is up.
+Skipping host 66.96.35.222 due to host timeout
+Nmap scan report for 66.96.35.223
+Host is up.
+Skipping host 66.96.35.223 due to host timeout
+Nmap scan report for 66.96.35.224
+Host is up.
+Skipping host 66.96.35.224 due to host timeout
+Nmap scan report for 66.96.35.225
+Host is up.
+Skipping host 66.96.35.225 due to host timeout
+Nmap scan report for 66.96.35.226
+Host is up.
+Skipping host 66.96.35.226 due to host timeout
+Nmap scan report for 66.96.35.227
+Host is up.
+Skipping host 66.96.35.227 due to host timeout
+Nmap scan report for 66.96.35.228
+Host is up.
+Skipping host 66.96.35.228 due to host timeout
+Nmap scan report for 66.96.35.229
+Host is up.
+Skipping host 66.96.35.229 due to host timeout
+Nmap scan report for 66.96.35.230
+Host is up.
+Skipping host 66.96.35.230 due to host timeout
+Nmap scan report for 66.96.35.231
+Host is up.
+Skipping host 66.96.35.231 due to host timeout
+Nmap scan report for 66.96.35.232
+Host is up.
+Skipping host 66.96.35.232 due to host timeout
+Nmap scan report for 66.96.35.233
+Host is up.
+Skipping host 66.96.35.233 due to host timeout
+Nmap scan report for 66.96.35.234
+Host is up.
+Skipping host 66.96.35.234 due to host timeout
+Nmap scan report for 66.96.35.235
+Host is up.
+Skipping host 66.96.35.235 due to host timeout
+Nmap scan report for 66.96.35.236
+Host is up.
+Skipping host 66.96.35.236 due to host timeout
+Nmap scan report for 66.96.35.237
+Host is up.
+Skipping host 66.96.35.237 due to host timeout
+Nmap scan report for 66.96.35.238
+Host is up.
+Skipping host 66.96.35.238 due to host timeout
+Nmap scan report for 66.96.35.239
+Host is up.
+Skipping host 66.96.35.239 due to host timeout
+Nmap scan report for 66.96.35.240
+Host is up.
+Skipping host 66.96.35.240 due to host timeout
+Nmap scan report for 66.96.35.241
+Host is up.
+Skipping host 66.96.35.241 due to host timeout
+Nmap scan report for 66.96.35.242
+Host is up.
+Skipping host 66.96.35.242 due to host timeout
+Nmap scan report for 66.96.35.243
+Host is up.
+Skipping host 66.96.35.243 due to host timeout
+Nmap scan report for 66.96.35.244
+Host is up.
+Skipping host 66.96.35.244 due to host timeout
+Nmap scan report for 66.96.35.245
+Host is up.
+Skipping host 66.96.35.245 due to host timeout
+Nmap scan report for 66.96.35.246
+Host is up.
+Skipping host 66.96.35.246 due to host timeout
+Nmap scan report for 66.96.35.247
+Host is up.
+Skipping host 66.96.35.247 due to host timeout
+Nmap scan report for 66.96.35.248
+Host is up.
+Skipping host 66.96.35.248 due to host timeout
+Nmap scan report for 66.96.35.249
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.35.250
+Host is up.
+Skipping host 66.96.35.250 due to host timeout
+Nmap scan report for 66.96.35.251
+Host is up.
+Skipping host 66.96.35.251 due to host timeout
+Nmap scan report for 66.96.35.252
+Host is up.
+Skipping host 66.96.35.252 due to host timeout
+Nmap scan report for 66.96.35.253
+Host is up.
+Skipping host 66.96.35.253 due to host timeout
+Nmap scan report for 66.96.35.254
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Nmap scan report for 66.96.35.255
+Host is up.
+
+PORT      STATE    SERVICE        VERSION
+102/tcp   filtered iso-tsap
+445/tcp   filtered microsoft-ds
+502/tcp   filtered mbap
+1433/tcp  filtered ms-sql-s
+2004/tcp  filtered mailbox
+2222/tcp  filtered EtherNetIP-1
+3306/tcp  filtered mysql
+9600/tcp  filtered micromuse-ncpw
+20548/tcp filtered unknown
+28784/tcp filtered unknown
+44818/tcp filtered EtherNetIP-2
+57176/tcp filtered unknown
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Nov 28 09:08:35 2025 -- 512 IP addresses (512 hosts up) scanned in 423.97 seconds
